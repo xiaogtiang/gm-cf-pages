@@ -19,7 +19,7 @@
 
 ### 8、目前脚本中可以使用的优选域名（实时更新）：
 
-  "time.cloudflare.com"
+ "time.cloudflare.com"
 
   "shopify.com"
 
@@ -92,6 +92,31 @@
   "xn--b6gac.eu.org"
 
   "edgetunnel.anycast.eu.org"
+
+  "alejandracaiccedo.com"
+
+  "nc.gocada.co"
+  
+  "log.bpminecraft.com"
+
+  "www.boba88slot.com"
+  
+  "gur.gov.ua"
+
+  "www.zsu.gov.ua"
+  
+  "www.iakeys.com"
+
+  "edtunnel-dgp.pages.dev"
+
+  "www.d-555.com"
+
+  "fbi.gov"
+  
+  "www.sean-now.com"
+
+  "download.yunzhongzhuan.com"
+
 
 
 
